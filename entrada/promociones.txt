@@ -1,0 +1,7 @@
+6
+promo1,Bosque Negro,Mordor,20%
+promo2,Lothlórien,La Comarca,36
+promo3,Minas Tirith,Abismo de Helm,Erebor
+promo4,Minas Tirith,Erebor,30%
+promo5,Bosque Negro,Mordor,Moria
+promo2,Lothlórien,La Comarca,50%

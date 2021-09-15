@@ -1,0 +1,31 @@
+Itinerarios del dia: 12/09/2021
+-----CLIENTE: EOWYN-----
+Promociones:
+promo3 que contiene las atracciones:
+      Bosque Negro
+      Mordor
+      Moria
+TOTAL TIEMPO:7.5hs
+TOTAL VALOR: $10.
+-----CLIENTE: GANDALF-----
+Atracciones:
+Bosque Negro
+Lothlórien
+TOTAL TIEMPO:5.0hs
+TOTAL VALOR: $38.
+-----CLIENTE: SAM-----
+Promociones:
+promo2 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+TOTAL TIEMPO:7.5hs
+TOTAL VALOR: $36.
+-----CLIENTE: GALADRIEL-----
+Promociones:
+promo4 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+TOTAL TIEMPO:5.5hs
+TOTAL VALOR: $12.
+-------------------TOTAL CLIENTES DEL DÍA DE HOY: 4-------------------
+-------------------TOTAL RECAUDADO EL DÍA DE HOY: $96-------------------
