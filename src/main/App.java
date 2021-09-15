@@ -8,6 +8,9 @@ import parque.CargaDiaria;
 public class App {
 
 	public static void main(String[] args) throws IOException {
+		
+		System.out.println("asdf");
+		
 		Administrador admin = new Administrador();
 		CargaDiaria carga = new CargaDiaria();
 		
